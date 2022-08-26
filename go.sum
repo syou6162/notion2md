@@ -12,8 +12,8 @@ github.com/json-iterator/go v1.1.12 h1:PV8peI4a0ysnczrg+LtxykD8LfKY9ML6u2jnxaEnr
 github.com/json-iterator/go v1.1.12/go.mod h1:e30LSqwooZae/UwlEbR2852Gd8hjQvJoHmT4TnhNGBo=
 github.com/kjk/common v0.0.0-20211010101831-6203abf05163 h1:iwH0ioFLk58sU4CCis60VwIkrZksSeNP08+FFe9n50c=
 github.com/kjk/common v0.0.0-20211010101831-6203abf05163/go.mod h1:bZoW8+ube8gSUMxdvIMVBw97o5gepeZqlCD8V+0MWXg=
-github.com/kjk/notionapi v0.0.0-20220710025316-0b93466e11f8 h1:rjewgmvuGFizTN0AVTPrJfXTOrw3Oo48VMkHuhIQOzc=
-github.com/kjk/notionapi v0.0.0-20220710025316-0b93466e11f8/go.mod h1:wcKCl5S0pVbd15s1KfTsKxRdLEpscM+MCzeJmbRaU3s=
+github.com/kjk/notionapi v0.0.0-20220825184122-1127e60626b6 h1:A7RCbKTY7ydu0f+lCEZvMz1TJ0607vkGralYV0Hs/no=
+github.com/kjk/notionapi v0.0.0-20220825184122-1127e60626b6/go.mod h1:wcKCl5S0pVbd15s1KfTsKxRdLEpscM+MCzeJmbRaU3s=
 github.com/kjk/siser v0.0.0-20220410204903-1b1e84ea1397 h1:OUgj4KSdIQeZfLSXR4WeUb3tRbWVGIXdlv9SfJJmbeg=
 github.com/kjk/siser v0.0.0-20220410204903-1b1e84ea1397/go.mod h1:k2Pzb2Ix2MoXVfVLt3SeCEhwammA4PTgLxjDBhIUHoA=
 github.com/mattn/go-isatty v0.0.8/go.mod h1:Iq45c/XA43vh69/j3iqttzPXn0bhXyGjM0Hdxcsrc5s=
