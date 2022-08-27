@@ -2,7 +2,7 @@ module github.com/syou6162/notion2md
 
 go 1.19
 
-require github.com/kjk/notionapi v0.0.0-20220710025316-0b93466e11f8
+require github.com/kjk/notionapi v0.0.0-20220825184122-1127e60626b6
 
 require (
 	github.com/google/uuid v1.3.0 // indirect
