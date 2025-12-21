@@ -1,11 +1,11 @@
 module github.com/syou6162/notion2md
 
-go 1.19
+go 1.24
 
-require github.com/kjk/notionapi v0.0.0-20231011232551-cb68c0480d50
+require github.com/kjk/notionapi v0.0.0-20251221120820-cbd4400c5eb7
 
 require (
-	github.com/google/uuid v1.3.1 // indirect
+	github.com/google/uuid v1.6.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/kjk/siser v0.0.0-20220410204903-1b1e84ea1397 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
